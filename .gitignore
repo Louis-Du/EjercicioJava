@@ -1,0 +1,25 @@
+# Archivos de NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos temporales
+*.class
+*.log
+*.tmp
+
+# Configs locales
+*.iml
+*.ipr
+*.iws
+.idea/
+.DS_Store
+
+# Maven/Gradle si los usas
+target/
+out/
+
