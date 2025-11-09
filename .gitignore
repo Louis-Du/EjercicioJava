@@ -23,3 +23,16 @@ nb-configuration.xml
 target/
 out/
 
+/Frame/01-BarraHerramientas/nbproject/private/
+/Frame/02-BarrasMenus/nbproject/private/
+/Frame/03-BotonesDEOpcion/nbproject/private/
+/Frame/04-CuadroDeVerificacion/nbproject/private/
+/Frame/05-CuadrosCombinados/nbproject/private/
+/Frame/06-CuadrosDeLista/nbproject/private/
+/Frame/07-MenusEmergentes/nbproject/private/
+/Frame/08-ModelosComboLista/nbproject/private/
+/Frame/09-ModelosCuadroLista/nbproject/private/
+/Frame/10-ScrollBars/nbproject/private/
+/Frame/11-Sliders/nbproject/private/
+/Frame/12-Spinner/nbproject/private/
+/Frame/13-ToggleButtons/nbproject/private/
