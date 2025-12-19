@@ -1,4 +1,4 @@
-# Archivos de NetBeans
+# NetBeans
 nbproject/private/
 build/
 dist/
@@ -7,32 +7,23 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
-# Archivos temporales
+# Java
 *.class
+
+# Temporales
 *.log
 *.tmp
+.DS_Store
 
-# Configs locales
+# IDEs
+.idea/
 *.iml
 *.ipr
 *.iws
-.idea/
-.DS_Store
 
-# Maven/Gradle si los usas
+# Maven / Gradle
 target/
 out/
 
-/Frame/01-BarraHerramientas/nbproject/private/
-/Frame/02-BarrasMenus/nbproject/private/
-/Frame/03-BotonesDEOpcion/nbproject/private/
-/Frame/04-CuadroDeVerificacion/nbproject/private/
-/Frame/05-CuadrosCombinados/nbproject/private/
-/Frame/06-CuadrosDeLista/nbproject/private/
-/Frame/07-MenusEmergentes/nbproject/private/
-/Frame/08-ModelosComboLista/nbproject/private/
-/Frame/09-ModelosCuadroLista/nbproject/private/
-/Frame/10-ScrollBars/nbproject/private/
-/Frame/11-Sliders/nbproject/private/
-/Frame/12-Spinner/nbproject/private/
-/Frame/13-ToggleButtons/nbproject/private/
+# Node
+node_modules/
