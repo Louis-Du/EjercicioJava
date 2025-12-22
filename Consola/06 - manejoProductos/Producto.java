@@ -29,4 +29,20 @@ public class Producto{
     public String getNombreProvedorProduct(){
         return nombreProvedorProduct;
     }
+
+    public void setNombreProducto(String nombre){
+        this.nombreProduct = nombre;
+    }
+    public void setIdProduct(int id){
+        this.idProduct = id;
+    }
+    public void setNumeroSerieProduct(int numeroSerie){
+        this.numeroSerieProduct = numeroSerie;
+    }
+    public void setValorProduct(int valor){
+        this.valorProduct = valor;
+    }
+    public void setNombreProvedorProduct(String nombreProvedor){
+        this.nombreProvedorProduct = nombreProvedor;
+    }
 }
